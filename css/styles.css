@@ -1,0 +1,21 @@
+html {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  text-align: center;
+  color: darkgrey;
+  font-style: courier;
+  font-weight: bold;
+}
+
+body {
+  text-align: center;
+  color: black;
+  font-style: normal;
+}
+
+p2 {
+  font-style: oblique;
+}
+
